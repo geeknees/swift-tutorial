@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  20150314_1
-//
-//  Created by masumi on 2015/03/14.
-//  Copyright (c) 2015年 masumi. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
