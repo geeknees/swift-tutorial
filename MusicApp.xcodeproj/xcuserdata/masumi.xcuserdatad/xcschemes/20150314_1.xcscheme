@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9E9A5B8C1AB3CED800365328"
-               BuildableName = "20150314_1.app"
-               BlueprintName = "20150314_1"
-               ReferencedContainer = "container:20150314_1.xcodeproj">
+               BuildableName = "MusicApp.app"
+               BlueprintName = "MusicApp"
+               ReferencedContainer = "container:MusicApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9E9A5BA11AB3CED800365328"
-               BuildableName = "20150314_1Tests.xctest"
-               BlueprintName = "20150314_1Tests"
-               ReferencedContainer = "container:20150314_1.xcodeproj">
+               BuildableName = "MusicAppTests.xctest"
+               BlueprintName = "MusicAppTests"
+               ReferencedContainer = "container:MusicApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9E9A5BA11AB3CED800365328"
-               BuildableName = "20150314_1Tests.xctest"
-               BlueprintName = "20150314_1Tests"
-               ReferencedContainer = "container:20150314_1.xcodeproj">
+               BuildableName = "MusicAppTests.xctest"
+               BlueprintName = "MusicAppTests"
+               ReferencedContainer = "container:MusicApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9E9A5B8C1AB3CED800365328"
-            BuildableName = "20150314_1.app"
-            BlueprintName = "20150314_1"
-            ReferencedContainer = "container:20150314_1.xcodeproj">
+            BuildableName = "MusicApp.app"
+            BlueprintName = "MusicApp"
+            ReferencedContainer = "container:MusicApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9E9A5B8C1AB3CED800365328"
-            BuildableName = "20150314_1.app"
-            BlueprintName = "20150314_1"
-            ReferencedContainer = "container:20150314_1.xcodeproj">
+            BuildableName = "MusicApp.app"
+            BlueprintName = "MusicApp"
+            ReferencedContainer = "container:MusicApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9E9A5B8C1AB3CED800365328"
-            BuildableName = "20150314_1.app"
-            BlueprintName = "20150314_1"
-            ReferencedContainer = "container:20150314_1.xcodeproj">
+            BuildableName = "MusicApp.app"
+            BlueprintName = "MusicApp"
+            ReferencedContainer = "container:MusicApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
